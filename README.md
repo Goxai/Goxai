@@ -4,13 +4,8 @@ I am a Data Analyst passionate about transforming raw data into actionable busin
 
 My toolkit includes Python, SQL, Excel, Power BI, and statistical analysis. I enjoy cleaning messy datasets, building interactive dashboards, performing exploratory data analysis (EDA), and developing predictive models that answer real business questions.
 
-I'm continuously expanding my skills in machine learning and advanced analytics while building projects that solve real-world problems.
+I am continuously expanding my skills in machine learning and advanced analytics while building projects that solve real-world problems.
 
-**Data Analyst building toward Data Science — Machine Learning, predictive modeling** turning raw data into decisions — based in Lagos, Nigeria.
-
-I hold a B.Sc. in Production Engineering and work at the intersection of data analytics, machine learning, and Web3. Currently sharpening my SQL and Python skills while building a portfolio of practical, business-focused analysis projects.
-
----
 
 ### 🔍 What I do
 - Collect, Clean, Explore and Turn Data into Actionable Business Insights
