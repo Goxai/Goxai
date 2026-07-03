@@ -13,7 +13,7 @@ I hold a B.Sc. in Production Engineering and work at the intersection of data an
 
 ### 📌 Featured Projects
 
-**[Loan Default Prediction Model](https://github.com/Goxai/6-month-data-science-journey/tree/main/projects/Loan%20Defaulter%20Detection%20project)**
+**[Loan Default Prediction Model](https://github.com/Goxai/Loan-default-detection-project)**
 Logistic Regression model trained on 255,000+ records to predict loan default risk.
 `AUC: 0.75` · `Accuracy: 70%` · `Python, Pandas, numpy, seaborn, matplotlib`
 
