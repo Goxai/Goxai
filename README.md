@@ -11,11 +11,18 @@ I hold a B.Sc. in Production Engineering and work at the intersection of data an
 - Design dashboards that turn messy spreadsheets into clear decisions
 - Explore DeFi/Web3 data and write about vault infrastructure & yield mechanics
 
+  ### 🛠️ Tech Stack
+`Python`. `Pandas` · `seaborn`. `numpy` · `SQL` · `Excel` (dashboards & modeling) · `Power BI` (exploring)
+
 ### 📌 Featured Projects
 
 **[Loan Default Prediction Model](https://github.com/Goxai/Loan-default-detection-project)**
 Logistic Regression model trained on 255,000+ records to predict loan default risk.
 `AUC: 0.75` · `Accuracy: 70%` · `Python, Pandas, numpy, seaborn, matplotlib`
+
+**[Telecom Customer Churn Analysis](https://github.com/Goxai/Telecom-churn-project-Analytical-Report)**
+Customer churn analysis to uncover why customer are and the way forward, main cause and solutions
+`python`,  `pandas`, `numpy`
 
 **[Retail Store Performance Dashboard](#)**
 Interactive Excel dashboard analyzing sales trends, store performance, and KPIs to support retail decision-making.
@@ -24,11 +31,6 @@ Interactive Excel dashboard analyzing sales trends, store performance, and KPIs 
 **[Coffee Shop Sales Analysis](#)**
 End-to-end sales analysis uncovering peak hours, top products, and revenue patterns.
 `Excel, Data Visualization`
-
-*(Replace the `#` links with your actual repo URLs once uploaded)*
-
-### 🛠️ Tech Stack
-`Python` (learning) · `SQL` (learning) · `Excel` (dashboards & modeling) · `Pandas` · `scikit-learn` · `Power BI` (exploring)
 
 ### 🌱 Currently
 - Building out my SQL and Python fundamentals through structured projects
