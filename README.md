@@ -32,6 +32,10 @@ Interactive Excel dashboard analyzing sales trends, store performance, and KPIs 
 End-to-end sales analysis uncovering peak hours, top products, and revenue patterns.
 `Excel, Data Visualization`
 
+**[Product Sales Analysis](https://github.com/Goxai/Product-Sales-Analysis)**
+Analysis to uncover products and locations that are bring in more sales.
+`python`, `numpy`, `matplotlib`
+
 ### 🌱 Currently
 - Building out my SQL and Python fundamentals through structured projects
 - Exploring DeFi/Web3 data ecosystems
