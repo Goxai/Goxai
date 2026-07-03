@@ -42,8 +42,8 @@ Analysis to uncover products and locations that are bring in more sales.
 - Open to Data Analyst roles and MSc Data Science opportunities
 
 ### 📫 Connect
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: [https://www.linkedin.com/in/osaruonamen-idumwonyi-b35b3118b/]
+- Email: [idumwonyiosas@gmail.com]
 
 
 <!---
