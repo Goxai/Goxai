@@ -7,9 +7,10 @@ I hold a B.Sc. in Production Engineering and work at the intersection of data an
 ---
 
 ### 🔍 What I do
+- Collect, Clean, Explore and Turn Data into Actionable Business Insights
 - Build predictive models to solve real business problems (credit risk, churn, forecasting)
 - Design dashboards that turn messy spreadsheets into clear decisions
-- Explore DeFi/Web3 data and write about vault infrastructure & yield mechanics
+- Explore, write and use DeFi/Web3
 
   ### 🛠️ Tech Stack
 `Python`. `Pandas` · `seaborn`. `numpy` · `SQL` · `Excel` (dashboards & modeling) · `Power BI` (exploring)
