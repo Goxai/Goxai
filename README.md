@@ -26,9 +26,9 @@ Logistic Regression model trained on 255,000+ records to predict loan default ri
 Customer churn analysis to uncover why customer are and the way forward, main cause and solutions
 `python`,  `pandas`, `numpy`
 
-**[Retail Store Performance Dashboard](#)**
-Interactive Excel dashboard analyzing sales trends, store performance, and KPIs to support retail decision-making.
-`Excel, PivotTables, DAX`
+**[Vrinda Store Annual Report Project](https://github.com/Goxai/Vrinda-Store-Annual-Analysis-Project/tree/main)**
+Interactive Excel dashboard analyzing sales trends, store performance, and KPIs to support vrinda store decision-making.
+`Excel, PivotTables, visualization`
 
 **[Coffee Shop Sales Analysis](#)**
 End-to-end sales analysis uncovering peak hours, top products, and revenue patterns.
