@@ -30,9 +30,9 @@ Customer churn analysis to uncover why customer are and the way forward, main ca
 Interactive Excel dashboard analyzing sales trends, store performance, and KPIs to support vrinda store decision-making.
 `Excel, PivotTables, visualization`
 
-**[Coffee Shop Sales Analysis](#)**
-End-to-end sales analysis uncovering peak hours, top products, and revenue patterns.
-`Excel, Data Visualization`
+**[Clean-Dirty-Banking-Dataset project](https://github.com/Goxai/Clean-Dirty-Banking-Dataset)**
+End-to-end Bank dataset cleaning.
+`python, pandas, numpy, matplotlib`
 
 **[Product Sales Analysis](https://github.com/Goxai/Product-Sales-Analysis)**
 Analysis to uncover products and locations that are bring in more sales.
