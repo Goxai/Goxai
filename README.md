@@ -22,6 +22,11 @@ I am continuously expanding my skills in machine learning and advanced analytics
 Logistic Regression model trained on 255,000+ records to predict loan default risk.
 `AUC: 0.75` · `Accuracy: 70%` · `Python, Pandas, numpy, seaborn, matplotlib`
 
+**[Bike purchase prediction model](https://github.com/Goxai/Bike-Purchase-Prediction)**
+Machine Learning model for predicting whether a customer will purchase a bike using demographic and lifestyle features.
+End-to-end machine learning project predicting customer bike purchases using Python and scikit-learn.
+`python, pandas, numpy, matplotlib, scikit_learn, seaborn`
+
 **[Telecom Customer Churn Analysis](https://github.com/Goxai/Telecom-churn-project-Analytical-Report)**
 Customer churn analysis to uncover why customer are and the way forward, main cause and solutions
 `python`,  `pandas`, `numpy`
